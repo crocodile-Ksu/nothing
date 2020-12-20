@@ -1,0 +1,145 @@
+.hh{ font-size: 30px;
+	text-align: center;
+
+}
+.h{ font-size: 12px;
+	text-align: center;
+
+}  
+
+.div{
+   width: 1100px;
+   height: 525px;
+   margin: auto;
+}
+
+
+.img{
+	width: 350px;
+	height: 250px;
+ 
+	
+}
+
+.img1{
+	width: 350px;
+	height: 250px;
+	 
+	 
+}
+
+.div1{
+	width: 350px;
+	height: 250px;
+	margin-top: 25px; 
+	margin-left: 10px; 
+	float:left; 
+}
+
+.div2{
+	width: 350px;
+	height: 250px;
+	margin-top: 25px; 
+	margin-left: 10px; 
+	float:left; 
+	clear: both;
+}
+           
+
+
+
+
+
+
+.div3{
+	height: 100vh;
+	background-image: url(https://cdn.discordapp.com/attachments/754336581338398752/787577883588689930/23.png);
+	background-size: cover;
+background-position: center;
+
+}
+
+.div33{
+	height: 100vh;
+	background-color: #232323DD ;
+}
+.hh1{ font-size: 30px;
+	text-align: center;
+	color: #f7f5f5 ; 
+    padding-top: 70px ;
+}
+
+.h1{ font-size: 12px;
+	text-align: center;
+    color: #f7f5f5 ; 
+    
+}  
+
+.imput {
+	height: 400 ;
+	width: 600;
+	margin-left: 30% ;
+}
+
+input, textarea {
+	background: transparent;
+	border: 1px solid gray;
+	color: white;
+   width:598px;
+   height: 35px ;
+   display: block;
+   margin-top: 4px;
+}
+
+textarea.t {
+	width: 598px;
+	height: 150px;
+}
+
+input.i {
+
+}
+
+input.cb {
+	display: inline-block;
+	width: 16px;
+	background: transparent;
+}
+
+
+button {
+	background: transparent;
+	border: 1px solid #4cbaf9;
+	color: white;
+    width: 150px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 428px;
+}
+
+.rrr{
+	height:   100px ;
+
+}
+.rr{
+ font-size: 18px ;	
+ float: left;
+}
+.r{
+	width: 300px;
+margin-left: 428px;
+float: left;
+margin-left: 1250px;
+}
+
+.w{
+width: 50px;
+height: 50px; 
+
+}
+
+.ww{
+width: 50px;
+height: 50px;
+float: left;
+}
